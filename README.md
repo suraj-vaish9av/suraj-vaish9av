@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://bit.ly/gt-yogeshpaliyal-sto" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Yogesh%20Paliyal-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/gt-yogeshpaliyal-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Paliyal-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>   
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuraj-vaish9av&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://yogeshpaliyal.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuraj-vaish9av&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)] 
 ![Profile views](https://gpvc.arturio.dev/suraj-vaish9av)  
 
 <center>
