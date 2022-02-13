@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://bit.ly/gt-yogeshpaliyal-sto" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Yogesh%20Paliyal-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/gt-yogeshpaliyal-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Paliyal-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>   
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuraj-vaish9av&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)] 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuraj-vaish9av&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 ![Profile views](https://gpvc.arturio.dev/suraj-vaish9av)  
 
 <center>
