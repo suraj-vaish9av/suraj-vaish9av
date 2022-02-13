@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, This is Suraj Vaishnav 
+***Google Certified Associate Android Developer***  
+- 🌱 I’m currently learning Jetpack Compose
+
 
 
 ### **⚒️ Languages and Tools:**  
@@ -24,12 +28,6 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-
-### 🤝 Connect with me 
-<a href="https://bit.ly/gh-yogeshpaliyal-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Yogesh_Paliyal-00acee?style=for-the-badge&logo=twitter" alt="twitter"></a>  <a href="https://bit.ly/gt-yogeshpaliyal-insta" target="_blank"><img src="https://img.shields.io/badge/Instagram-Yogesh_Paliyal-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>  
-<a href="https://bit.ly/gt-yogeshpaliyal-sto" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Yogesh%20Paliyal-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/gt-yogeshpaliyal-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Paliyal-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>   
 
 
 ![Profile views](https://gpvc.arturio.dev/suraj-vaish9av)  
