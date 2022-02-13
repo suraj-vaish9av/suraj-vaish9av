@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **suraj-vaish9av/suraj-vaish9av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, This is Suraj Vaishnav 
+## Hi there 👋, This is Suraj Vaishnav 
 ***Google Certified Associate Android Developer***  
 - 🌱 I’m currently learning Jetpack Compose
 
